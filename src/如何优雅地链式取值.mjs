@@ -1,4 +1,4 @@
-如何优雅地链式取值：https://juejin.im/post/5ba08483e51d450e99430a7f
+// 如何优雅地链式取值：https://juejin.im/post/5ba08483e51d450e99430a7f
 
 const _ = require('lodash')
 
